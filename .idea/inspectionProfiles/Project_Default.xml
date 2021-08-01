@@ -1,0 +1,47 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="prechanges.Excel_report_main.pre_config" />
+          <option value="prechanges.Excel_report_main.Excel_pathXtractor" />
+          <option value="prechanges.Excel_report_main.xml_extractor" />
+          <option value="prechanges.Excel_report_main.postgres_connection" />
+          <option value="prechanges.Excel_report_main.oracle_connection" />
+          <option value="prechanges.Excel_report_main.pd" />
+          <option value="prechanges.Version3_package.pre_config" />
+          <option value="prechanges.Version3_package.package_Xtractor" />
+          <option value="prechanges.Version3_package.xml_extractor" />
+          <option value="prechanges.Version3_package.issues_oracle_connection" />
+          <option value="prechanges.version3_type.pre_config" />
+          <option value="prechanges.version3_type.type_Xtractor" />
+          <option value="prechanges.version3_type.xml_extractor" />
+          <option value="prechanges.version3_type.issues_oracle_connection" />
+          <option value="prechanges.final_version3_package.pre_config" />
+          <option value="prechanges.final_version3_type.pre_config" />
+          <option value="prechanges.final_version3_type.type_Xtractor" />
+          <option value="prechanges.final_version3_type.xml_extractor" />
+          <option value="prechanges.final_version3_type.issues_oracle_connection" />
+          <option value="prechanges.final_version3_package.issues_oracle_connection" />
+          <option value="prechanges.final_version3_package.package_Xtractor" />
+          <option value="prechanges.final_version3_package.xml_extractor" />
+          <option value="prechanges.final_version3_type.cx_Oracle" />
+          <option value="Code_Validation_Tool.prechanges.final_version3_package.final_configimport" />
+          <option value="Code_Validation_Tool.postchanges.post_procedure_function.post_config" />
+          <option value="Code_Validation_Tool.postchanges.post_procedure_function.xml_extractor" />
+          <option value="Code_Validation_Tool.postchanges.post_procedure_function.issues_oracle_connection" />
+          <option value="Code_Validation_Tool.postchanges.post_functions.post_config" />
+          <option value="Code_Validation_Tool.postchanges.post_functions.xml_extractor" />
+          <option value="Code_Validation_Tool.postchanges.post_functions.issues_oracle_connection" />
+          <option value="cx_Oracle" />
+          <option value="config.qmig_config" />
+          <option value="config.*" />
+          <option value="v4.Code_Validation_Tool.python.final_version4_package.qmigration_Xtractor" />
+          <option value="v4.Code_Validation_Tool.python.final_version4_package.xml_extractor" />
+          <option value="v4.Code_Validation_Tool.python.final_version4_package.issues_oracle_connection" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
